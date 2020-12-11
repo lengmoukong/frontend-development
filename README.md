@@ -48,7 +48,8 @@
 2. d3.js 地址 https://d3js.org/
 ## 地图
 基于angular封装的一款高德地图组件 地址https://xieziyu.github.io/ngx-amap/#/welcome1.
-
+## 持续更新 | Continuous upgrades
+每周定期更新, 敬请期待...
 <!-- 
 #### JS代码
 ```javascript
